@@ -1,4 +1,6 @@
-﻿namespace fs_2025_a_api_demo_002.Endpoints
+﻿using fs_2025_a_api_demo_002.Models;
+
+namespace fs_2025_a_api_demo_002.Endpoints
 {
     public static class WeatherEndPoints
     {
