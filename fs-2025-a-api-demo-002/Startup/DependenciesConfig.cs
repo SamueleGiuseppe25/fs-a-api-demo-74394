@@ -9,6 +9,8 @@ namespace fs_2025_a_api_demo_002.Startup
             // Add your service registrations here
             // e.g., services.AddTransient<IMyService, MyService>();
             builder.Services.AddTransient<CourseData>();
+            builder.Services.AddTransient<BookData>();
+
         }
     }
 }

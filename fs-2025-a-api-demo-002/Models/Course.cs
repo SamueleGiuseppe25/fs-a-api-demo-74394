@@ -8,7 +8,7 @@
         public string courseType { get; set; }
         public string courseName { get; set; }
         public int courseLessonCount { get; set; }
-        public int courseLengthInHours { get; set; }
+        public double courseLengthInHours { get; set; }
         public string shortDescription { get; set; }
         public string courseImage { get; set; }
         public int priceInUSD { get; set; }

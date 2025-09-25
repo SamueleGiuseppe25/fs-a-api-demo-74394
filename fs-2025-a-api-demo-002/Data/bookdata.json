@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "isbn": "9780143127741",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "publication": "Harper",
+    "date": "2015-02-10",
+    "genre": "History"
+  },
+  {
+    "id": 2,
+    "isbn": "9780385545969",
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "publication": "Viking",
+    "date": "2020-09-29",
+    "genre": "Fiction"
+  },
+  {
+    "id": 3,
+    "isbn": "9780307278449",
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "publication": "Vintage",
+    "date": "2006-09-26",
+    "genre": "Post-apocalyptic Fiction"
+  },
+  {
+    "id": 4,
+    "isbn": "9780553382563",
+    "title": "A Game of Thrones",
+    "author": "George R. R. Martin",
+    "publication": "Bantam",
+    "date": "1996-08-06",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 5,
+    "isbn": "9780743273565",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publication": "Scribner",
+    "date": "1925-04-10",
+    "genre": "Classic"
+  },
+  {
+    "id": 6,
+    "isbn": "9781451673319",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "publication": "Simon & Schuster",
+    "date": "1953-10-19",
+    "genre": "Dystopian"
+  },
+  {
+    "id": 7,
+    "isbn": "9780316769488",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publication": "Little, Brown and Company",
+    "date": "1951-07-16",
+    "genre": "Literary Fiction"
+  },
+  {
+    "id": 8,
+    "isbn": "9780061120084",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publication": "J. B. Lippincott & Co.",
+    "date": "1960-07-11",
+    "genre": "Classic"
+  },
+  {
+    "id": 9,
+    "isbn": "9780140449136",
+    "title": "The Odyssey",
+    "author": "Homer",
+    "publication": "Penguin Classics",
+    "date": "0800-01-01",
+    "genre": "Epic Poetry"
+  },
+  {
+    "id": 10,
+    "isbn": "9780385472579",
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "publication": "Anchor Books",
+    "date": "1958-06-17",
+    "genre": "Historical Fiction"
+  }
+]
